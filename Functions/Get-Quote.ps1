@@ -242,6 +242,7 @@ function Get-Quote {
         "Dost thou love life? `nThen do not squander time, for that is the stuff life is made of.`n`n -Benjamin Franklin`n"
 	"The young man knows the rules, but the old man knows the exceptions.`n`n -Oliver Wendell Holmes Jr.`n"
 	"The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.`n`n -George Bernard Shaw`n"
+	"Don't show up to prove. Show up to improve.`n"
         #endRegion
 
         #Region sysadmin ones
