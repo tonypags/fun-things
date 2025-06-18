@@ -51,7 +51,7 @@ $PSDefaultParameterValues.'Get-Help:ShowWindow' = $true
 # Custom type-ahead settings
 if ($host.Name -eq 'ConsoleHost') {
     Import-Module PSReadLine
-    Set-PSReadLineOption -PredictionSource History
+    # Set-PSReadLineOption -PredictionSource History
 }
 
 
