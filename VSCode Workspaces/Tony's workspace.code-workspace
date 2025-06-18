@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Functions"
+		},
+		{
+			"path": "../Modules"
+		}
+	],
+	"settings": {
+		// "powershell.cwd": "~\\Documents\\WindowsPowerShell\\Modules",
+		// "liveServer.settings.multiRootWorkspaceName": "Modules",
+		"scm.providerCountBadge": "visible",
+		"scm.alwaysShowRepositories": true
+	}
+}
